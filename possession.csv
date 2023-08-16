@@ -1,304 +1,304 @@
 DUREE, T1.Possession, T1.Annotation, T1.AnnotationText,T2.Possession, T2.Annotation, T2.AnnotationText 
-00:50:32,0,null,null,100,+AG+C,null
-00:50:34,0,null,null,100,null,null
-00:50:35,0,null,null,100,null,null
-00:50:36,0,null,null,100,null,null
-00:50:37,0,null,null,100,null,null
-00:50:38,0,null,null,100,null,null
-00:50:39,0,null,null,100,null,null
-00:50:40,0,null,null,100,null,null
-00:50:41,0,null,null,100,null,null
-00:50:42,0,null,null,100,null,null
-00:50:43,0,null,null,100,null,null
-00:50:44,0,null,null,100,null,null
-00:50:45,0,null,null,100,null,null
-00:50:46,0,null,null,100,null,null
-00:50:47,0,null,null,100,null,null
-00:50:48,0,null,null,100,null,null
-00:50:49,0,null,null,100,null,null
-00:50:50,0,null,null,100,null,null
-00:50:51,0,null,null,100,null,null
-00:50:52,0,null,null,100,null,null
-00:50:53,0,null,null,100,null,null
-00:50:54,0,null,null,100,null,null
-00:50:55,0,null,null,100,null,null
-00:50:56,0,null,null,100,null,null
-00:50:57,0,null,null,100,null,null
-00:50:58,31,null,null,69,null,null
-00:50:59,31,null,null,69,null,null
-00:51:0,31,null,null,69,null,null
-00:51:1,31,null,null,69,null,null
-00:51:2,31,null,null,69,null,null
-00:51:3,31,null,null,69,null,null
-00:51:4,31,null,null,69,null,null
-00:51:5,31,null,null,69,null,null
-00:51:6,31,null,null,69,null,null
-00:51:7,31,null,null,69,null,null
-00:51:8,31,null,null,69,null,null
-00:51:10,31,null,null,69,null,null
-00:51:12,31,null,null,69,null,null
-00:51:14,31,null,null,69,null,null
-00:51:16,31,null,null,69,null,null
-00:51:18,31,null,null,69,null,null
-00:51:20,31,null,null,69,null,null
-00:51:22,31,null,null,69,null,null
-00:51:24,31,null,null,69,null,null
-00:51:26,31,null,null,69,null,null
-00:51:28,31,null,null,69,null,null
-00:51:30,31,null,null,69,null,null
-00:51:33,31,null,null,69,null,null
-00:51:35,31,null,null,69,null,null
-00:51:36,31,null,null,69,null,null
-00:51:39,31,null,null,69,null,null
-00:51:41,31,null,null,69,null,null
-00:51:42,31,null,null,69,null,null
-00:51:44,31,null,null,69,null,null
-00:51:46,31,null,null,69,null,null
-00:51:49,31,null,null,69,null,null
-00:51:51,31,null,null,69,null,null
-00:51:53,31,null,null,69,null,null
-00:51:55,31,null,null,69,null,null
-00:51:57,31,null,null,69,null,null
-00:51:59,39,null,null,61,null,null
-00:52:1,39,null,null,61,null,null
-00:52:3,39,null,null,61,null,null
-00:52:4,39,null,null,61,null,null
-00:52:7,39,null,null,61,null,null
-00:52:9,39,null,null,61,null,null
-00:52:10,39,null,null,61,null,null
-00:52:12,39,null,null,61,null,null
-00:52:14,39,null,null,61,null,null
-00:52:16,39,null,null,61,null,null
-00:52:18,39,null,null,61,null,null
-00:52:20,39,null,null,61,null,null
-00:52:23,39,null,null,61,null,null
-00:52:24,39,null,null,61,null,null
-00:52:27,39,null,null,61,null,null
-00:52:29,39,null,null,61,null,null
-00:52:31,39,null,null,61,null,null
-00:52:32,39,null,null,61,null,null
-00:52:35,39,null,null,61,null,null
-00:52:37,39,null,null,61,null,null
-00:52:39,39,null,null,61,null,null
-00:52:41,39,null,null,61,null,null
-00:52:43,39,null,null,61,null,null
-00:52:45,39,null,null,61,null,null
-00:52:47,39,null,null,61,null,null
-00:52:49,39,null,null,61,null,null
-00:52:51,39,null,null,61,null,null
-00:52:53,39,null,null,61,null,null
-00:52:55,39,null,null,61,null,null
-00:52:57,39,null,null,61,null,null
-00:52:59,39,null,null,61,null,null
-00:53:1,39,null,null,61,null,null
-00:53:3,39,null,null,61,null,null
-00:53:5,39,null,null,61,null,null
-00:53:7,39,null,null,61,null,null
-00:53:9,39,null,null,61,null,null
-00:53:11,39,null,null,61,null,null
-00:53:13,39,null,null,61,null,null
-00:53:15,39,null,null,61,null,null
-00:53:17,39,null,null,61,null,null
-00:53:19,39,null,null,61,null,null
-00:53:21,39,null,null,61,null,null
-00:53:23,39,null,null,61,null,null
-00:53:25,39,null,null,61,null,null
-00:53:27,39,null,null,61,null,null
-00:53:29,39,null,null,61,null,null
-00:53:31,39,null,null,61,null,null
-00:53:33,39,null,null,61,null,null
-00:53:35,39,null,null,61,null,null
-00:53:37,39,null,null,61,null,null
-00:53:39,39,null,null,61,null,null
-00:53:41,39,null,null,61,null,null
-00:53:43,39,null,null,61,null,null
-00:53:45,39,null,null,61,null,null
-00:53:47,39,null,null,61,null,null
-00:53:49,39,null,null,61,null,null
-00:53:51,39,null,null,61,null,null
-00:53:53,39,null,null,61,null,null
-00:53:55,39,null,null,61,null,null
-00:53:57,39,null,null,61,null,null
-00:53:59,39,null,null,61,null,null
-00:54:1,39,null,null,61,null,null
-00:54:3,39,null,null,61,null,null
-00:54:4,39,null,null,61,null,null
-00:54:6,39,null,null,61,null,null
-00:54:9,39,null,null,61,null,null
-00:54:11,39,null,null,61,null,null
-00:54:13,39,null,null,61,null,null
-00:54:15,39,null,null,61,null,null
-00:54:17,39,null,null,61,null,null
-00:54:19,39,null,null,61,null,null
-00:54:21,39,null,null,61,null,null
-00:54:23,39,null,null,61,null,null
-00:54:25,39,null,null,61,null,null
-00:54:27,39,null,null,61,null,null
-00:54:29,39,null,null,61,null,null
-00:54:31,39,null,null,61,null,null
-00:54:33,39,null,null,61,null,null
-00:54:35,39,null,null,61,null,null
-00:54:37,39,null,null,61,null,null
-00:54:40,39,null,null,61,null,null
-00:54:40,39,null,null,61,null,null
-00:54:43,39,null,null,61,null,null
-00:54:45,39,null,null,61,null,null
-00:54:47,39,null,null,61,null,null
-00:54:47,39,null,null,61,null,null
-00:54:51,39,null,null,61,null,null
-00:54:53,39,null,null,61,null,null
-00:54:55,39,null,null,61,null,null
-00:54:57,39,null,null,61,null,null
-00:54:59,39,null,null,61,null,null
-00:55:2,39,null,null,61,null,null
-00:55:2,39,null,null,61,null,null
-00:55:5,39,null,null,61,null,null
-00:55:6,39,null,null,61,null,null
-00:55:8,39,null,null,61,null,null
-00:55:11,39,null,null,61,null,null
-00:55:13,39,null,null,61,null,null
-00:55:15,39,null,null,61,null,null
-00:55:17,39,null,null,61,null,null
-00:55:19,39,null,null,61,null,null
-00:55:22,39,null,null,61,null,null
-00:55:22,39,null,null,61,null,null
-00:55:25,39,null,null,61,null,null
-00:55:27,39,null,null,61,null,null
-00:55:30,39,null,null,61,null,null
-00:55:31,39,null,null,61,null,null
-00:55:33,39,null,null,61,null,null
-00:55:35,39,null,null,61,null,null
-00:55:37,39,null,null,61,null,null
-00:55:41,39,null,null,61,null,null
-00:55:43,39,null,null,61,null,null
-00:55:46,39,null,null,61,null,null
-00:55:48,39,null,null,61,null,null
-00:55:50,39,null,null,61,null,null
-00:55:51,39,null,null,61,null,null
-00:55:55,39,null,null,61,null,null
-00:55:58,39,null,null,61,null,null
-00:55:59,39,null,null,61,null,null
-00:56:1,39,null,null,61,null,null
-00:56:2,39,null,null,61,null,null
-00:56:4,39,null,null,61,null,null
-00:56:6,39,null,null,61,null,null
-00:56:8,39,null,null,61,null,null
-00:56:10,39,null,null,61,null,null
-00:56:12,39,null,null,61,null,null
-00:56:14,39,null,null,61,null,null
-00:56:16,39,null,null,61,null,null
-00:56:18,39,null,null,61,null,null
-00:56:20,39,null,null,61,null,null
-00:56:22,39,null,null,61,null,null
-00:56:24,39,null,null,61,null,null
-00:56:26,39,null,null,61,null,null
-00:56:28,39,null,null,61,null,null
-00:56:30,39,null,null,61,null,null
-00:56:32,39,null,null,61,null,null
-00:56:34,39,null,null,61,null,null
-00:56:36,39,null,null,61,null,null
-00:56:38,39,null,null,61,null,null
-00:56:40,39,null,null,61,null,null
-00:56:42,39,null,null,61,null,null
-00:56:44,39,null,null,61,null,null
-00:56:46,39,null,null,61,null,null
-00:56:48,39,null,null,61,null,null
-00:56:50,39,null,null,61,null,null
-00:56:52,39,null,null,61,null,null
-00:56:54,39,null,null,61,null,null
-00:56:56,39,null,null,61,null,null
-00:56:58,39,null,null,61,null,null
-00:57:0,39,null,null,61,null,null
-00:57:2,39,null,null,61,null,null
-00:57:4,39,null,null,61,null,null
-00:57:6,39,null,null,61,null,null
-00:57:8,39,null,null,61,null,null
-00:57:10,39,null,null,61,null,null
-00:57:12,39,null,null,61,null,null
-00:57:14,39,null,null,61,null,null
-00:57:16,39,null,null,61,null,null
-00:57:18,39,null,null,61,null,null
-00:57:20,39,null,null,61,null,null
-00:57:22,39,null,null,61,null,null
-00:57:24,39,null,null,61,null,null
-00:57:26,39,null,null,61,null,null
-00:57:28,39,null,null,61,null,null
-00:57:30,39,null,null,61,null,null
-00:57:32,39,null,null,61,null,null
-00:57:34,39,null,null,61,null,null
-00:57:36,39,null,null,61,null,null
-00:57:38,39,null,null,61,null,null
-00:57:40,39,null,null,61,null,null
-00:57:42,39,null,null,61,null,null
-00:57:44,39,null,null,61,null,null
-00:57:46,39,null,null,61,null,null
-00:57:48,39,null,null,61,null,null
-00:57:50,39,null,null,61,null,null
-00:57:52,39,null,null,61,null,null
-00:57:54,50,null,null,50,null,null
-00:57:56,50,null,null,50,null,null
-00:57:58,50,null,null,50,null,null
-00:58:0,50,null,null,50,null,null
-00:58:2,50,null,null,50,null,null
-00:58:4,50,null,null,50,null,null
-00:58:6,50,null,null,50,null,null
-00:58:8,50,null,null,50,null,null
-00:58:10,50,null,null,50,null,null
-00:58:12,50,null,null,50,null,null
-00:58:14,50,null,null,50,null,null
-00:58:16,50,null,null,50,null,null
-00:58:18,50,null,null,50,null,null
-00:58:20,50,null,null,50,null,null
-00:58:22,50,null,null,50,null,null
-00:58:24,50,null,null,50,null,null
-00:58:26,50,null,null,50,null,null
-00:58:28,50,null,null,50,null,null
-00:58:30,50,null,null,50,null,null
-00:58:32,50,null,null,50,null,null
-00:58:34,50,null,null,50,null,null
-00:58:34,50,null,null,50,null,null
-00:58:36,50,null,null,50,null,null
-00:58:38,50,null,null,50,null,null
-00:58:40,50,null,null,50,null,null
-00:58:43,50,null,null,50,null,null
-00:58:47,50,null,null,50,null,null
-00:58:47,50,null,null,50,null,null
-00:58:49,50,null,null,50,null,null
-00:58:51,50,null,null,50,null,null
-00:58:53,50,null,null,50,null,null
-00:58:58,50,null,null,50,null,null
-00:59:1,50,null,null,50,null,null
-00:59:1,50,null,null,50,null,null
-00:59:3,50,null,null,50,null,null
-00:59:6,50,null,null,50,null,null
-00:59:8,50,null,null,50,null,null
-00:59:12,50,null,null,50,null,null
-00:59:12,50,null,null,50,null,null
-00:59:15,44,null,null,56,null,null
-00:59:17,44,null,null,56,null,null
-00:59:22,44,null,null,56,null,null
-00:59:25,44,null,null,56,null,null
-00:59:25,44,null,null,56,null,null
-00:59:27,44,null,null,56,null,null
-00:59:30,44,null,null,56,null,null
-00:59:32,44,null,null,56,null,null
-00:59:35,44,null,null,56,null,null
-00:59:37,44,null,null,56,null,null
-00:59:40,44,null,null,56,null,null
-00:59:45,44,null,null,56,null,null
-00:59:47,44,null,null,56,null,null
-00:59:47,44,null,null,56,null,null
-00:59:53,44,null,null,56,null,null
-00:59:53,44,null,null,56,null,null
-00:59:56,44,null,null,56,null,null
-00:60:1,44,null,null,56,null,null
-00:60:1,44,null,null,56,null,null
-00:60:4,44,null,null,56,null,null
-00:60:7,44,null,null,56,null,null
-00:60:9,44,null,null,56,null,null
-00:60:12,47,null,null,53,null,null
-00:60:15,47,null,null,53,null,null
-00:60:18,47,null,null,53,null,null
+2023-01-01 00:50:32,0,null,null,100,+AG+C,null
+2023-01-01 00:50:34,0,null,null,100,null,null
+2023-01-01 00:50:35,0,null,null,100,null,null
+2023-01-01 00:50:36,0,null,null,100,null,null
+2023-01-01 00:50:37,0,null,null,100,null,null
+2023-01-01 00:50:38,0,null,null,100,null,null
+2023-01-01 00:50:39,0,null,null,100,null,null
+2023-01-01 00:50:40,0,null,null,100,null,null
+2023-01-01 00:50:41,0,null,null,100,null,null
+2023-01-01 00:50:42,0,null,null,100,null,null
+2023-01-01 00:50:43,0,null,null,100,null,null
+2023-01-01 00:50:44,0,null,null,100,null,null
+2023-01-01 00:50:45,0,null,null,100,null,null
+2023-01-01 00:50:46,0,null,null,100,null,null
+2023-01-01 00:50:47,0,null,null,100,null,null
+2023-01-01 00:50:48,0,null,null,100,null,null
+2023-01-01 00:50:49,0,null,null,100,null,null
+2023-01-01 00:50:50,0,null,null,100,null,null
+2023-01-01 00:50:51,0,null,null,100,null,null
+2023-01-01 00:50:52,0,null,null,100,null,null
+2023-01-01 00:50:53,0,null,null,100,null,null
+2023-01-01 00:50:54,0,null,null,100,null,null
+2023-01-01 00:50:55,0,null,null,100,null,null
+2023-01-01 00:50:56,0,null,null,100,null,null
+2023-01-01 00:50:57,0,null,null,100,null,null
+2023-01-01 00:50:58,31,null,null,69,null,null
+2023-01-01 00:50:59,31,null,null,69,null,null
+2023-01-01 00:51:0,31,null,null,69,null,null
+2023-01-01 00:51:1,31,null,null,69,null,null
+2023-01-01 00:51:2,31,null,null,69,null,null
+2023-01-01 00:51:3,31,null,null,69,null,null
+2023-01-01 00:51:4,31,null,null,69,null,null
+2023-01-01 00:51:5,31,null,null,69,null,null
+2023-01-01 00:51:6,31,null,null,69,null,null
+2023-01-01 00:51:7,31,null,null,69,null,null
+2023-01-01 00:51:8,31,null,null,69,null,null
+2023-01-01 00:51:10,31,null,null,69,null,null
+2023-01-01 00:51:12,31,null,null,69,null,null
+2023-01-01 00:51:14,31,null,null,69,null,null
+2023-01-01 00:51:16,31,null,null,69,null,null
+2023-01-01 00:51:18,31,null,null,69,null,null
+2023-01-01 00:51:20,31,null,null,69,null,null
+2023-01-01 00:51:22,31,null,null,69,null,null
+2023-01-01 00:51:24,31,null,null,69,null,null
+2023-01-01 00:51:26,31,null,null,69,null,null
+2023-01-01 00:51:28,31,null,null,69,null,null
+2023-01-01 00:51:30,31,null,null,69,null,null
+2023-01-01 00:51:33,31,null,null,69,null,null
+2023-01-01 00:51:35,31,null,null,69,null,null
+2023-01-01 00:51:36,31,null,null,69,null,null
+2023-01-01 00:51:39,31,null,null,69,null,null
+2023-01-01 00:51:41,31,null,null,69,null,null
+2023-01-01 00:51:42,31,null,null,69,null,null
+2023-01-01 00:51:44,31,null,null,69,null,null
+2023-01-01 00:51:46,31,null,null,69,null,null
+2023-01-01 00:51:49,31,null,null,69,null,null
+2023-01-01 00:51:51,31,null,null,69,null,null
+2023-01-01 00:51:53,31,null,null,69,null,null
+2023-01-01 00:51:55,31,null,null,69,null,null
+2023-01-01 00:51:57,31,null,null,69,null,null
+2023-01-01 00:51:59,39,null,null,61,null,null
+2023-01-01 00:52:1,39,null,null,61,null,null
+2023-01-01 00:52:3,39,null,null,61,null,null
+2023-01-01 00:52:4,39,null,null,61,null,null
+2023-01-01 00:52:7,39,null,null,61,null,null
+2023-01-01 00:52:9,39,null,null,61,null,null
+2023-01-01 00:52:10,39,null,null,61,null,null
+2023-01-01 00:52:12,39,null,null,61,null,null
+2023-01-01 00:52:14,39,null,null,61,null,null
+2023-01-01 00:52:16,39,null,null,61,null,null
+2023-01-01 00:52:18,39,null,null,61,null,null
+2023-01-01 00:52:20,39,null,null,61,null,null
+2023-01-01 00:52:23,39,null,null,61,null,null
+2023-01-01 00:52:24,39,null,null,61,null,null
+2023-01-01 00:52:27,39,null,null,61,null,null
+2023-01-01 00:52:29,39,null,null,61,null,null
+2023-01-01 00:52:31,39,null,null,61,null,null
+2023-01-01 00:52:32,39,null,null,61,null,null
+2023-01-01 00:52:35,39,null,null,61,null,null
+2023-01-01 00:52:37,39,null,null,61,null,null
+2023-01-01 00:52:39,39,null,null,61,null,null
+2023-01-01 00:52:41,39,null,null,61,null,null
+2023-01-01 00:52:43,39,null,null,61,null,null
+2023-01-01 00:52:45,39,null,null,61,null,null
+2023-01-01 00:52:47,39,null,null,61,null,null
+2023-01-01 00:52:49,39,null,null,61,null,null
+2023-01-01 00:52:51,39,null,null,61,null,null
+2023-01-01 00:52:53,39,null,null,61,null,null
+2023-01-01 00:52:55,39,null,null,61,null,null
+2023-01-01 00:52:57,39,null,null,61,null,null
+2023-01-01 00:52:59,39,null,null,61,null,null
+2023-01-01 00:53:1,39,null,null,61,null,null
+2023-01-01 00:53:3,39,null,null,61,null,null
+2023-01-01 00:53:5,39,null,null,61,null,null
+2023-01-01 00:53:7,39,null,null,61,null,null
+2023-01-01 00:53:9,39,null,null,61,null,null
+2023-01-01 00:53:11,39,null,null,61,null,null
+2023-01-01 00:53:13,39,null,null,61,null,null
+2023-01-01 00:53:15,39,null,null,61,null,null
+2023-01-01 00:53:17,39,null,null,61,null,null
+2023-01-01 00:53:19,39,null,null,61,null,null
+2023-01-01 00:53:21,39,null,null,61,null,null
+2023-01-01 00:53:23,39,null,null,61,null,null
+2023-01-01 00:53:25,39,null,null,61,null,null
+2023-01-01 00:53:27,39,null,null,61,null,null
+2023-01-01 00:53:29,39,null,null,61,null,null
+2023-01-01 00:53:31,39,null,null,61,null,null
+2023-01-01 00:53:33,39,null,null,61,null,null
+2023-01-01 00:53:35,39,null,null,61,null,null
+2023-01-01 00:53:37,39,null,null,61,null,null
+2023-01-01 00:53:39,39,null,null,61,null,null
+2023-01-01 00:53:41,39,null,null,61,null,null
+2023-01-01 00:53:43,39,null,null,61,null,null
+2023-01-01 00:53:45,39,null,null,61,null,null
+2023-01-01 00:53:47,39,null,null,61,null,null
+2023-01-01 00:53:49,39,null,null,61,null,null
+2023-01-01 00:53:51,39,null,null,61,null,null
+2023-01-01 00:53:53,39,null,null,61,null,null
+2023-01-01 00:53:55,39,null,null,61,null,null
+2023-01-01 00:53:57,39,null,null,61,null,null
+2023-01-01 00:53:59,39,null,null,61,null,null
+2023-01-01 00:54:1,39,null,null,61,null,null
+2023-01-01 00:54:3,39,null,null,61,null,null
+2023-01-01 00:54:4,39,null,null,61,null,null
+2023-01-01 00:54:6,39,null,null,61,null,null
+2023-01-01 00:54:9,39,null,null,61,null,null
+2023-01-01 00:54:11,39,null,null,61,null,null
+2023-01-01 00:54:13,39,null,null,61,null,null
+2023-01-01 00:54:15,39,null,null,61,null,null
+2023-01-01 00:54:17,39,null,null,61,null,null
+2023-01-01 00:54:19,39,null,null,61,null,null
+2023-01-01 00:54:21,39,null,null,61,null,null
+2023-01-01 00:54:23,39,null,null,61,null,null
+2023-01-01 00:54:25,39,null,null,61,null,null
+2023-01-01 00:54:27,39,null,null,61,null,null
+2023-01-01 00:54:29,39,null,null,61,null,null
+2023-01-01 00:54:31,39,null,null,61,null,null
+2023-01-01 00:54:33,39,null,null,61,null,null
+2023-01-01 00:54:35,39,null,null,61,null,null
+2023-01-01 00:54:37,39,null,null,61,null,null
+2023-01-01 00:54:40,39,null,null,61,null,null
+2023-01-01 00:54:40,39,null,null,61,null,null
+2023-01-01 00:54:43,39,null,null,61,null,null
+2023-01-01 00:54:45,39,null,null,61,null,null
+2023-01-01 00:54:47,39,null,null,61,null,null
+2023-01-01 00:54:47,39,null,null,61,null,null
+2023-01-01 00:54:51,39,null,null,61,null,null
+2023-01-01 00:54:53,39,null,null,61,null,null
+2023-01-01 00:54:55,39,null,null,61,null,null
+2023-01-01 00:54:57,39,null,null,61,null,null
+2023-01-01 00:54:59,39,null,null,61,null,null
+2023-01-01 00:55:2,39,null,null,61,null,null
+2023-01-01 00:55:2,39,null,null,61,null,null
+2023-01-01 00:55:5,39,null,null,61,null,null
+2023-01-01 00:55:6,39,null,null,61,null,null
+2023-01-01 00:55:8,39,null,null,61,null,null
+2023-01-01 00:55:11,39,null,null,61,null,null
+2023-01-01 00:55:13,39,null,null,61,null,null
+2023-01-01 00:55:15,39,null,null,61,null,null
+2023-01-01 00:55:17,39,null,null,61,null,null
+2023-01-01 00:55:19,39,null,null,61,null,null
+2023-01-01 00:55:22,39,null,null,61,null,null
+2023-01-01 00:55:22,39,null,null,61,null,null
+2023-01-01 00:55:25,39,null,null,61,null,null
+2023-01-01 00:55:27,39,null,null,61,null,null
+2023-01-01 00:55:30,39,null,null,61,null,null
+2023-01-01 00:55:31,39,null,null,61,null,null
+2023-01-01 00:55:33,39,null,null,61,null,null
+2023-01-01 00:55:35,39,null,null,61,null,null
+2023-01-01 00:55:37,39,null,null,61,null,null
+2023-01-01 00:55:41,39,null,null,61,null,null
+2023-01-01 00:55:43,39,null,null,61,null,null
+2023-01-01 00:55:46,39,null,null,61,null,null
+2023-01-01 00:55:48,39,null,null,61,null,null
+2023-01-01 00:55:50,39,null,null,61,null,null
+2023-01-01 00:55:51,39,null,null,61,null,null
+2023-01-01 00:55:55,39,null,null,61,null,null
+2023-01-01 00:55:58,39,null,null,61,null,null
+2023-01-01 00:55:59,39,null,null,61,null,null
+2023-01-01 00:56:1,39,null,null,61,null,null
+2023-01-01 00:56:2,39,null,null,61,null,null
+2023-01-01 00:56:4,39,null,null,61,null,null
+2023-01-01 00:56:6,39,null,null,61,null,null
+2023-01-01 00:56:8,39,null,null,61,null,null
+2023-01-01 00:56:10,39,null,null,61,null,null
+2023-01-01 00:56:12,39,null,null,61,null,null
+2023-01-01 00:56:14,39,null,null,61,null,null
+2023-01-01 00:56:16,39,null,null,61,null,null
+2023-01-01 00:56:18,39,null,null,61,null,null
+2023-01-01 00:56:20,39,null,null,61,null,null
+2023-01-01 00:56:22,39,null,null,61,null,null
+2023-01-01 00:56:24,39,null,null,61,null,null
+2023-01-01 00:56:26,39,null,null,61,null,null
+2023-01-01 00:56:28,39,null,null,61,null,null
+2023-01-01 00:56:30,39,null,null,61,null,null
+2023-01-01 00:56:32,39,null,null,61,null,null
+2023-01-01 00:56:34,39,null,null,61,null,null
+2023-01-01 00:56:36,39,null,null,61,null,null
+2023-01-01 00:56:38,39,null,null,61,null,null
+2023-01-01 00:56:40,39,null,null,61,null,null
+2023-01-01 00:56:42,39,null,null,61,null,null
+2023-01-01 00:56:44,39,null,null,61,null,null
+2023-01-01 00:56:46,39,null,null,61,null,null
+2023-01-01 00:56:48,39,null,null,61,null,null
+2023-01-01 00:56:50,39,null,null,61,null,null
+2023-01-01 00:56:52,39,null,null,61,null,null
+2023-01-01 00:56:54,39,null,null,61,null,null
+2023-01-01 00:56:56,39,null,null,61,null,null
+2023-01-01 00:56:58,39,null,null,61,null,null
+2023-01-01 00:57:0,39,null,null,61,null,null
+2023-01-01 00:57:2,39,null,null,61,null,null
+2023-01-01 00:57:4,39,null,null,61,null,null
+2023-01-01 00:57:6,39,null,null,61,null,null
+2023-01-01 00:57:8,39,null,null,61,null,null
+2023-01-01 00:57:10,39,null,null,61,null,null
+2023-01-01 00:57:12,39,null,null,61,null,null
+2023-01-01 00:57:14,39,null,null,61,null,null
+2023-01-01 00:57:16,39,null,null,61,null,null
+2023-01-01 00:57:18,39,null,null,61,null,null
+2023-01-01 00:57:20,39,null,null,61,null,null
+2023-01-01 00:57:22,39,null,null,61,null,null
+2023-01-01 00:57:24,39,null,null,61,null,null
+2023-01-01 00:57:26,39,null,null,61,null,null
+2023-01-01 00:57:28,39,null,null,61,null,null
+2023-01-01 00:57:30,39,null,null,61,null,null
+2023-01-01 00:57:32,39,null,null,61,null,null
+2023-01-01 00:57:34,39,null,null,61,null,null
+2023-01-01 00:57:36,39,null,null,61,null,null
+2023-01-01 00:57:38,39,null,null,61,null,null
+2023-01-01 00:57:40,39,null,null,61,null,null
+2023-01-01 00:57:42,39,null,null,61,null,null
+2023-01-01 00:57:44,39,null,null,61,null,null
+2023-01-01 00:57:46,39,null,null,61,null,null
+2023-01-01 00:57:48,39,null,null,61,null,null
+2023-01-01 00:57:50,39,null,null,61,null,null
+2023-01-01 00:57:52,39,null,null,61,null,null
+2023-01-01 00:57:54,50,null,null,50,null,null
+2023-01-01 00:57:56,50,null,null,50,null,null
+2023-01-01 00:57:58,50,null,null,50,null,null
+2023-01-01 00:58:0,50,null,null,50,null,null
+2023-01-01 00:58:2,50,null,null,50,null,null
+2023-01-01 00:58:4,50,null,null,50,null,null
+2023-01-01 00:58:6,50,null,null,50,null,null
+2023-01-01 00:58:8,50,null,null,50,null,null
+2023-01-01 00:58:10,50,null,null,50,null,null
+2023-01-01 00:58:12,50,null,null,50,null,null
+2023-01-01 00:58:14,50,null,null,50,null,null
+2023-01-01 00:58:16,50,null,null,50,null,null
+2023-01-01 00:58:18,50,null,null,50,null,null
+2023-01-01 00:58:20,50,null,null,50,null,null
+2023-01-01 00:58:22,50,null,null,50,null,null
+2023-01-01 00:58:24,50,null,null,50,null,null
+2023-01-01 00:58:26,50,null,null,50,null,null
+2023-01-01 00:58:28,50,null,null,50,null,null
+2023-01-01 00:58:30,50,null,null,50,null,null
+2023-01-01 00:58:32,50,null,null,50,null,null
+2023-01-01 00:58:34,50,null,null,50,null,null
+2023-01-01 00:58:34,50,null,null,50,null,null
+2023-01-01 00:58:36,50,null,null,50,null,null
+2023-01-01 00:58:38,50,null,null,50,null,null
+2023-01-01 00:58:40,50,null,null,50,null,null
+2023-01-01 00:58:43,50,null,null,50,null,null
+2023-01-01 00:58:47,50,null,null,50,null,null
+2023-01-01 00:58:47,50,null,null,50,null,null
+2023-01-01 00:58:49,50,null,null,50,null,null
+2023-01-01 00:58:51,50,null,null,50,null,null
+2023-01-01 00:58:53,50,null,null,50,null,null
+2023-01-01 00:58:58,50,null,null,50,null,null
+2023-01-01 00:59:1,50,null,null,50,null,null
+2023-01-01 00:59:1,50,null,null,50,null,null
+2023-01-01 00:59:3,50,null,null,50,null,null
+2023-01-01 00:59:6,50,null,null,50,null,null
+2023-01-01 00:59:8,50,null,null,50,null,null
+2023-01-01 00:59:12,50,null,null,50,null,null
+2023-01-01 00:59:12,50,null,null,50,null,null
+2023-01-01 00:59:15,44,null,null,56,null,null
+2023-01-01 00:59:17,44,null,null,56,null,null
+2023-01-01 00:59:22,44,null,null,56,null,null
+2023-01-01 00:59:25,44,null,null,56,null,null
+2023-01-01 00:59:25,44,null,null,56,null,null
+2023-01-01 00:59:27,44,null,null,56,null,null
+2023-01-01 00:59:30,44,null,null,56,null,null
+2023-01-01 00:59:32,44,null,null,56,null,null
+2023-01-01 00:59:35,44,null,null,56,null,null
+2023-01-01 00:59:37,44,null,null,56,null,null
+2023-01-01 00:59:40,44,null,null,56,null,null
+2023-01-01 00:59:45,44,null,null,56,null,null
+2023-01-01 00:59:47,44,null,null,56,null,null
+2023-01-01 00:59:47,44,null,null,56,null,null
+2023-01-01 00:59:53,44,null,null,56,null,null
+2023-01-01 00:59:53,44,null,null,56,null,null
+2023-01-01 00:59:56,44,null,null,56,null,null
+2023-01-01 00:60:1,44,null,null,56,null,null
+2023-01-01 00:60:1,44,null,null,56,null,null
+2023-01-01 00:60:4,44,null,null,56,null,null
+2023-01-01 00:60:7,44,null,null,56,null,null
+2023-01-01 00:60:9,44,null,null,56,null,null
+2023-01-01 00:60:12,47,null,null,53,null,null
+2023-01-01 00:60:15,47,null,null,53,null,null
+2023-01-01 00:60:18,47,null,null,53,null,null
 2023-01-01 00:60:20,47,null,null,53,null,null
 2023-01-01 00:60:23,47,null,null,53,null,null
 2023-01-01 00:60:26,47,null,null,53,null,null
