@@ -1,4 +1,4 @@
-DUREE, T1.Possession, T1.Annotation, T1.AnnotationText,T2.Possession, T2.Annotation, T2.AnnotationText 
+Date, T1_Possession, T1_Annotation, T1_AnnotationText,T2_Possession, T2_Annotation, T2_AnnotationText 
 01/01/2023 00:50:32,0,null,null,100,+AG+C,null
 01/01/2023 00:50:34,0,null,null,100,null,null
 01/01/2023 00:50:35,0,null,null,100,null,null
